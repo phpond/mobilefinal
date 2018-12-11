@@ -33,6 +33,7 @@ public class RegisterFragment extends Fragment {
 
     @Override
     public void onActivityCreated(@Nullable Bundle savedInstanceState) {
+        getActivity().setTitle("Register");
         super.onActivityCreated(savedInstanceState);
         initRegister();
     }

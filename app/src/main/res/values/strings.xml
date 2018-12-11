@@ -10,5 +10,11 @@
     //register
     <string name="name_topic">Name</string>
     <string name="age_topic">Age</string>
-
+    
+    //home
+    <string name="hello_topic">Hello Firstname LastName</string>
+    <string name="quote_topic">quote</string>
+    <string name="profile_setup">profile setup</string>
+    <string name="myfriend">My Friends</string>
+    <string name="sign_out">sign out</string>
 </resources>
