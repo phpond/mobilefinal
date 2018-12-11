@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mobilefinal</string>
+
+    //login
+    <string name="user_id_topic">User Id</string>
+    <string name="password_topic">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="regis_link">Register New Account</string>
+
+    //register
+    <string name="name_topic">Name</string>
+    <string name="age_topic">Age</string>
+
+</resources>
